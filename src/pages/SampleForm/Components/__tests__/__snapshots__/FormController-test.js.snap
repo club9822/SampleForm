@@ -1,0 +1,403 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  accessible={true}
+  focusable={true}
+  onClick={[Function]}
+  onLayout={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#ffffff",
+        "borderRadius": 30,
+        "height": 667,
+        "justifyContent": "space-around",
+        "paddingVertical": 66.7,
+        "shadowColor": "#000",
+        "shadowOffset": Object {
+          "height": 2,
+          "width": 0,
+        },
+        "shadowOpacity": 0.25,
+        "shadowRadius": 3.84,
+        "width": "80%",
+      },
+      Object {},
+    ]
+  }
+>
+  <View
+    onLayout={[Function]}
+    style={
+      Object {
+        "alignSelf": "center",
+        "backgroundColor": "#fff",
+        "height": 127.51470588235294,
+        "marginVertical": 4.904411764705882,
+        "overflow": "hidden",
+        "paddingTop": 0,
+        "width": 514.2857142857142,
+      }
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Array [
+          Object {
+            "color": "#3F5CA6",
+            "fontSize": 51.42857142857143,
+          },
+          Object {
+            "alignItems": "center",
+            "color": "rgba(163, 163, 163, 1)",
+            "height": 58.85294117647059,
+            "justifyContent": "center",
+            "maxHeight": 58.85294117647059,
+            "minHeight": 58.85294117647059,
+            "position": "absolute",
+            "right": 39.23529411764706,
+            "top": 29.426470588235293,
+          },
+          Object {
+            "fontFamily": "Material Design Icons",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+          Object {},
+        ]
+      }
+    >
+      
+    </Text>
+    <View
+      style={
+        Array [
+          Object {
+            "backgroundColor": "#f0f0f0",
+            "position": "absolute",
+            "width": 1.7,
+          },
+          Object {
+            "height": 127.51470588235294,
+            "right": 107.14285714285714,
+          },
+        ]
+      }
+    />
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "height": 127.51470588235294,
+          "position": "absolute",
+          "right": 139.28571428571428,
+          "top": 34.330882352941174,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "rgba(148, 148, 148, 1)",
+            "fontFamily": "IRANSansMobile(FaNum)",
+            "fontSize": 18.857142857142858,
+            "height": 58.85294117647059,
+            "maxHeight": 58.85294117647059,
+            "minHeight": 58.85294117647059,
+            "textAlignVertical": "center",
+          }
+        }
+      >
+        نام کاربری
+      </Text>
+    </View>
+    <TextInput
+      allowFontScaling={true}
+      animationDuration={300}
+      height={127.51470588235294}
+      iconColor="#3F5CA6"
+      iconName="account"
+      iconSize={51.42857142857143}
+      keyboardType="default"
+      label="نام کاربری"
+      onBlur={[Function]}
+      onChange={[Function]}
+      onChangeText={[Function]}
+      onFocus={[Function]}
+      passiveIconColor="#a3a3a3"
+      rejectResponderTermination={true}
+      selectionColor="#989898"
+      shake={false}
+      style={
+        Array [
+          Object {
+            "backgroundColor": "transparent",
+            "color": "#737373",
+            "fontFamily": "IRANSansMobile(FaNum)",
+            "height": 98.08823529411764,
+            "marginTop": 39.23529411764706,
+            "maxHeight": 98.08823529411764,
+            "minHeight": 98.08823529411764,
+            "textAlign": "right",
+            "textAlignVertical": "center",
+          },
+          Object {
+            "color": "#737373",
+            "marginLeft": 0,
+            "marginRight": 133.92857142857142,
+          },
+          undefined,
+          Object {
+            "fontSize": 18.857142857142858,
+          },
+        ]
+      }
+      underlineColorAndroid="transparent"
+    />
+    <View
+      style={
+        Object {
+          "bottom": 19.61764705882353,
+          "left": 1,
+          "position": "absolute",
+        }
+      }
+    />
+  </View>
+  <View
+    onLayout={[Function]}
+    style={
+      Object {
+        "alignSelf": "center",
+        "backgroundColor": "#fff",
+        "height": 127.51470588235294,
+        "marginVertical": 4.904411764705882,
+        "overflow": "hidden",
+        "paddingTop": 0,
+        "width": 514.2857142857142,
+      }
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Array [
+          Object {
+            "color": "#3F5CA6",
+            "fontSize": 51.42857142857143,
+          },
+          Object {
+            "alignItems": "center",
+            "color": "rgba(163, 163, 163, 1)",
+            "height": 58.85294117647059,
+            "justifyContent": "center",
+            "maxHeight": 58.85294117647059,
+            "minHeight": 58.85294117647059,
+            "position": "absolute",
+            "right": 39.23529411764706,
+            "top": 29.426470588235293,
+          },
+          Object {
+            "fontFamily": "Material Design Icons",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+          Object {},
+        ]
+      }
+    >
+      
+    </Text>
+    <View
+      style={
+        Array [
+          Object {
+            "backgroundColor": "#f0f0f0",
+            "position": "absolute",
+            "width": 1.7,
+          },
+          Object {
+            "height": 127.51470588235294,
+            "right": 107.14285714285714,
+          },
+        ]
+      }
+    />
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "height": 127.51470588235294,
+          "position": "absolute",
+          "right": 139.28571428571428,
+          "top": 34.330882352941174,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "rgba(148, 148, 148, 1)",
+            "fontFamily": "IRANSansMobile(FaNum)",
+            "fontSize": 18.857142857142858,
+            "height": 58.85294117647059,
+            "maxHeight": 58.85294117647059,
+            "minHeight": 58.85294117647059,
+            "textAlignVertical": "center",
+          }
+        }
+      >
+        رمز عبور
+      </Text>
+    </View>
+    <TextInput
+      allowFontScaling={true}
+      animationDuration={300}
+      height={127.51470588235294}
+      iconColor="#3F5CA6"
+      iconName="lock"
+      iconSize={51.42857142857143}
+      keyboardType="default"
+      label="رمز عبور"
+      onBlur={[Function]}
+      onChange={[Function]}
+      onChangeText={[Function]}
+      onFocus={[Function]}
+      passiveIconColor="#a3a3a3"
+      rejectResponderTermination={true}
+      selectionColor="#989898"
+      shake={false}
+      style={
+        Array [
+          Object {
+            "backgroundColor": "transparent",
+            "color": "#737373",
+            "fontFamily": "IRANSansMobile(FaNum)",
+            "height": 98.08823529411764,
+            "marginTop": 39.23529411764706,
+            "maxHeight": 98.08823529411764,
+            "minHeight": 98.08823529411764,
+            "textAlign": "right",
+            "textAlignVertical": "center",
+          },
+          Object {
+            "color": "#737373",
+            "marginLeft": 0,
+            "marginRight": 133.92857142857142,
+          },
+          undefined,
+          Object {
+            "fontSize": 18.857142857142858,
+          },
+        ]
+      }
+      underlineColorAndroid="transparent"
+    />
+    <View
+      style={
+        Object {
+          "bottom": 19.61764705882353,
+          "left": 1,
+          "position": "absolute",
+        }
+      }
+    />
+  </View>
+  <View
+    accessible={true}
+    focusable={true}
+    isTVSelectable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "alignSelf": "center",
+        "backgroundColor": "#02cdfc",
+        "borderColor": "#665EFF",
+        "borderRadius": 32.14285714285714,
+        "borderWidth": 0.1,
+        "height": 94.16470588235293,
+        "justifyContent": "center",
+        "marginVertical": 19.61764705882353,
+        "opacity": 1,
+        "width": "80%",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flex": 1,
+          "justifyContent": "center",
+        }
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "color": "#01111A",
+              "fontFamily": "IRANSansMobile(FaNum)",
+              "fontSize": 22,
+              "textAlign": "center",
+            },
+            Object {},
+          ]
+        }
+      >
+        ورود
+      </Text>
+    </View>
+  </View>
+</View>
+`;

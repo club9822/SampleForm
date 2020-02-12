@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "justifyContent": "center",
+      "minHeight": "20%",
+    }
+  }
+>
+  <Text
+    accessible={true}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "fontFamily": "IRANSansMobile(FaNum)",
+      }
+    }
+  >
+    ثبت نام
+  </Text>
+</View>
+`;
