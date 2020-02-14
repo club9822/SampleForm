@@ -12,9 +12,9 @@ import {SIGN_IN} from '../../../constants/forms';
 //components
 import {Fumi} from 'react-native-textinput-effects';
 import {
-  signInFormReducer,
+  formReducer,
   initialState,
-} from '../../../reducers/signInFormReducer';
+} from '../../../reducers/formReducer';
 import {REDUCER_TYPES} from '../../../types/reducerTypes';
 import SpinnerButton from '../../../components/SpinnerButton';
 import {ACTION_TYPES} from '../../../types/actionTypes';
@@ -30,7 +30,7 @@ type Props = {
   containerStyle?: object,
 };
 function FormController(props: Props) {
-  const [state, dispatch] = useReducer(signInFormReducer, initialState);
+  const [state, dispatch] = useReducer(formReducer, initialState);
   const signInAxios = function() {
     const {username, password} = state;
 

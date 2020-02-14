@@ -1,10 +1,2 @@
-/**
- * @format
- */
-
-import {AppRegistry} from 'react-native';
-// import App from './App';
-import SampleForm from './src/pages/SampleForm';
-import {name as appName} from './app.json';
-
-AppRegistry.registerComponent(appName, () => SampleForm);
+import {Navigation, setRoot} from './src/config/AppNavigator';
+Navigation.events().registerAppLaunchedListener(setRoot);

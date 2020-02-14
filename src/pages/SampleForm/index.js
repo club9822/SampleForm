@@ -6,9 +6,8 @@ import FormController from './Components/FormController';
 import FooterButtons from './Components/FooterButtons';
 import {height} from '../../utils/windowDimensions';
 // @flow
-type Props = {
-};
-function SampleForm(props:Props) {
+type Props = {};
+function SampleForm(props: Props) {
   return (
     <SafeAreaView style={styles.containerStyle}>
       <StatusBar backgroundColor={'#12a19f'} barStyle={'dark'} />
